@@ -1,1 +1,1 @@
-[# chaeeun_interior](https://github.com/bychaeun/chaeeun_interior.git)
+https://bychaeun.github.io/chaeeun_interior/
